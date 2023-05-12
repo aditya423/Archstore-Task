@@ -7,7 +7,7 @@ Write a Python script that can extract image URLs from Pinterest based on the ta
 3. Extract the URLs of the images that match the tags.<br>
 4. Store the extracted URLs in a CSV file or any other suitable format.
 
-<br><br>
+<br>
 Additionally, script should be efficient and scalable, able to handle a large volume of tags and images. 
 
 <hr>
