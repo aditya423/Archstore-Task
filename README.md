@@ -10,5 +10,5 @@ Write a Python script that can extract image URLs from Pinterest based on the ta
 Additionally, script should be efficient and scalable, able to handle a large volume of tags and images. 
 
 <hr>
-&copy;https://github.com/iamatulsingh/pinterest-image-scrap
+&copy; https://github.com/iamatulsingh/pinterest-image-scrap
 <br>Modified the script from the above repository to make it work for this task !
