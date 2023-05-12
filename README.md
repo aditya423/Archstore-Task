@@ -1,5 +1,5 @@
 ## Task:
-<br>
+
 Write a Python script that can extract image URLs from Pinterest based on the tags that we provide as input. The script should be able to perform the following tasks:
 <br><br>
 1. Take input from the user for the Pinterest tags.<br>
