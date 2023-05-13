@@ -18,7 +18,6 @@ Additionally, script should be efficient and scalable, able to handle a large vo
 * pydotmap 
 * opencv-python 
 * numpy
-<br>
 
 You can install these module using ``` pip install requests tqdm beautifulsoup4 pydotmap opencv-python numpy ``` this command and then run the script ``` pinterest.py ```. It will generate a CSV file ``` urls.csv ``` containing all the image urls on the pinterest for a searched tag.
 
